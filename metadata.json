@@ -1,0 +1,5 @@
+{
+  "name": "Contact Manager Pro",
+  "description": "Advanced contact management app with Bangladeshi phone normalization, CSV import/merge, and passkey security.",
+  "requestFramePermissions": []
+}
